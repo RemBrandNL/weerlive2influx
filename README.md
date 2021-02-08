@@ -25,4 +25,5 @@ I have listed all available keys at the moment of writing (source: tab #3 on: ht
 First step is that I add all required values as string and then I loop over them again to see which ones are numeric. I convert all to floats and manage presentation and all in Grafana dashboards afterwards. Open to contructive comments and enjoy!
 
 All the best from The Netherlands,
+
 Remco
